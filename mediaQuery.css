@@ -1,0 +1,77 @@
+.CurrentFlowHeading {
+}
+.buttonPlace {
+  margin-left: 70px;
+}
+.buttonKPI {
+  margin-left: -20px;
+}
+@media screen and (min-width: 1024px) {
+  .CurrentFlowHeading {
+    position: absolute;
+    top: 1px;
+  }
+}
+
+@media screen and (min-width: 280px) {
+  .buttonPlace {
+    margin-left: 0px;
+  }
+  .buttonKPI {
+    margin-left: -25px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  .buttonPlace {
+    margin-left: 30px;
+  }
+}
+
+@media screen and (min-width: 420px) {
+  .buttonPlace {
+    margin-left: 60px;
+  }
+}
+@media screen and (min-width: 550px) {
+  .buttonPlace {
+    margin-left: 80px;
+  }
+}
+@media screen and (min-width: 625px) {
+  .buttonPlace {
+    margin-left: 110px;
+  }
+}
+@media screen and (min-width: 720px) {
+  .buttonPlace {
+    margin-left: 150px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .buttonPlace {
+    margin-left: 0px;
+  }
+  .buttonKPI {
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .buttonPlace {
+    margin-left: 30px;
+  }
+  .buttonKPI {
+    margin-top: 10px;
+    margin-left: 38px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .buttonPlace {
+    margin-left: 30px;
+  }
+  .buttonKPI {
+    margin-top: 0;
+    margin-left: -20px;
+  }
+}
