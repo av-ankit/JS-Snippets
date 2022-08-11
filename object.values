@@ -1,0 +1,12 @@
+var fruits = {
+  
+    apple: 10,
+    orange: 20,
+    grapes: 30,
+    pineapple: 40
+  
+}
+
+var totalFruits = Object.values(fruits).reduce((a, b) => a + b);
+
+console.log(totalFruits);
